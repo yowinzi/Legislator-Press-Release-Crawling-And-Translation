@@ -8,6 +8,23 @@ In machine translation, we always train the model with some popular open dataset
 ## Requirement
 
 beautifulsoup4 == 4.9.3
+
 bs4 == 0.0.1
+
 requests == 2.25.1
+
 googletrans == 4.0.0rc1
+
+## Run
+
+Use the Instruction shown as below to download press releases on the websites of legislators.
+
+```sh
+python crawling.py
+```
+
+Then, call the translate function. 
+
+```sh
+python googleTranslate.py
+```
