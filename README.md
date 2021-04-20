@@ -4,7 +4,7 @@
 
   In machine translation, we always train the model with some popular open datasets,e.g., WMT( Workshop on Statistical Machine Translation ) or IWSLT( International Workshop on Spoken Language Translation ). But if we use our model on some special domain data,e.g., press releases, the model will be very weak because the domain is quite different. 
 
-  This program can help you to download the press releases on Legislative Yuan websites automatically. And if you are doing a machine translation task, you can also call fuctions in googleTranslate.py. There are some function which will help you translate the press releases from chinese to english through the google api. You can use chinese and english  pairs to do machine translation or back translation. Enjoy it!
+  This program can help you to download the press releases on Legislative Yuan websites automatically. And if you are doing a machine translation task, you can also call fuctions in googleTranslate.py. There are some function which will help you translate the press releases from chinese to english through the google api. You can use chinese and english  pairs to do machine translation or back translation. Enjoy it! :grinning:
 
 
 ## Requirement
