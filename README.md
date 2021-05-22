@@ -9,13 +9,13 @@
 
 ## Requirement
 
-beautifulsoup4 == 4.9.3
+-Python 3.7 
+-beautifulsoup4 4.9.3
+-bs4 0.0.1
+-requests 2.25.1
+-googletrans 4.0.0rc1
 
-bs4 == 0.0.1
 
-requests == 2.25.1
-
-googletrans == 4.0.0rc1
 
 ## Run
 
