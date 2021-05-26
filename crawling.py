@@ -6,7 +6,7 @@ import time
 import re
 import numpy as np
 
-class PttCrawler:
+class Crawler:
     
     def __init__(self):
 
@@ -222,9 +222,9 @@ class PttCrawler:
 
 def main():
 
-    pttcrawler = PttCrawler()
+    crawler = Crawler()
 
-    pttcrawler.processing()
+    crawler.processing()
     
 
 
